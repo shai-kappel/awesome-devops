@@ -1,20 +1,24 @@
 # awesome-devops
-A one stop shop for DevOps resources.
+A curated list of DevOps resources.
 This project is aimed to help DevOps engineers to find the right tooling and resources in one place.
 
 ## Contents
 
 - [101](#101)
 - [Blogs](#Blogs)
+- [Books](#Books)
 - [CI/CD](#CI/CD)
 - [Communities](#Communities)
 - [CM](#CM)
 - [Containers](#Containers)
 - [DevSecOps](#DevSecOps)
+- [Learning](#Learning)
 - [Monitoring](#Monitoring)
 - [RSS](#RSS)
 - [SCM](#SCM)
 - [Packaging](#Packaging)
+- [Podcasts](#Podcasts)
+- [Repositories](#Repositories)
 - [Websites](#Websites)
 - [Misc](#Misc)
 
@@ -42,7 +46,7 @@ This project is aimed to help DevOps engineers to find the right tooling and res
 
 ### CI/CD
 
-* [Jenkins](https://jenkins.io/) - Jenkins the vetran CI/CD butler
+* [Jenkins](https://jenkins.io/) - Jenkins the veteran CI/CD butler
 * [Bamboo](https://www.atlassian.com/software/bamboo) - Atlassian Bamboo CI/CD tool
 * [CircleCI](https://circleci.com/) - SaaS CI/CD 
 * [CodeShip](https://codeship.com/) - SaaS CI/CD 
@@ -50,3 +54,27 @@ This project is aimed to help DevOps engineers to find the right tooling and res
 * [VSTS](https://www.visualstudio.com/team-services/) - Microsoft SaaS all-in-one software release tool
 * [Shippable](https://www.shippable.com/) - SaaS CI/CD 
 * [Teamcity](https://www.jetbrains.com/teamcity/) - CI/CD tool
+
+### Communities
+
+#### Slack
+
+* [DevOpsChat](https://devopschat.co/#join) - The largest DevOps slack community with all resources for DevOps professionals
+* [DevOpsEngineers](https://devopsengineers.com/) - DevOps engineers with lots of different channels
+* [DevOps Israel](https://join.slack.com/t/devops-israel/shared_invite/enQtMzY5NDgzMjkyMjc3LTMxN2VlMGU0MDExOWZiMzgzM2U0NzBmNWVlMjc3Y2JlNTFkOWI3YTRhZTUyODIzMjg3ZjA0ZjU3ZmI1OGNmYWY) - My DevOps 4 DevOps slack workspace with different channels for tools, events, jobs and news
+* [DevOpsDebate](https://communityinviter.com/apps/devopsdebate/devopsdebate/) - DevOps discussions
+
+#### reddit
+
+* [Everything DevOps](https://www.reddit.com/r/devops/) - Name says it all
+* [Docker](https://www.reddit.com/r/docker) - Docker related resources
+
+#### LinkedIn
+
+* [DevOps](https://www.linkedin.com/groups/2825397) - One of the largest LinkedIn devops group
+* [DevOps discussions](https://www.linkedin.com/groups/6585254) - Discussion on AWS, Azure, DevOps, Microservices, Containers (Docker), Serverless Computing, Clustering and Distributed Systems
+
+#### Forums
+
+* [DevOpsCube](https://discuss.devopscube.com/) - Dedicated DevOps forum
+* [StackExchange DevOps](https://devops.stackexchange.com/) - Stackexchange DevOps forum

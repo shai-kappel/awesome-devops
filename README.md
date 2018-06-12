@@ -12,6 +12,7 @@ This project is aimed to help DevOps engineers to find the right tooling and res
 - [CM](#CM)
 - [Containers](#Containers)
 - [DevSecOps](#DevSecOps)
+- [IAC](#IAC)
 - [Learning](#Learning)
 - [Monitoring](#Monitoring)
 - [RSS](#RSS)
@@ -78,3 +79,10 @@ This project is aimed to help DevOps engineers to find the right tooling and res
 
 * [DevOpsCube](https://discuss.devopscube.com/) - Dedicated DevOps forum
 * [StackExchange DevOps](https://devops.stackexchange.com/) - Stackexchange DevOps forum
+
+### CM
+
+* [Ansible](https://www.ansible.com/) - Ansible is the most popular open source automation tool on GitHub, written in Python
+* [Chef](https://www.chef.io/chef/) - Chef is written in Ruby and Erlang, uses DSL for configuration "recipes"
+* [Puppet](https://puppet.com/) - Puppet is one of the most known CM, written in C++ & Clojure (Ruby in the past)
+* [Salt](https://saltstack.com/) - Salt from SaltStack is written in Python can run agent or agentless
